@@ -1,0 +1,9 @@
+C:\Users\mihadadene\source\repos\TestCnxBd\TestCnxBd\obj\Debug\TestCnxBd.csprojAssemblyReference.cache
+C:\Users\mihadadene\source\repos\TestCnxBd\TestCnxBd\obj\Debug\TestCnxBd.csproj.CoreCompileInputs.cache
+C:\Users\mihadadene\source\repos\TestCnxBd\TestCnxBd\bin\Debug\TestCnxBd.exe.config
+C:\Users\mihadadene\source\repos\TestCnxBd\TestCnxBd\bin\Debug\TestCnxBd.exe
+C:\Users\mihadadene\source\repos\TestCnxBd\TestCnxBd\bin\Debug\TestCnxBd.pdb
+C:\Users\mihadadene\source\repos\TestCnxBd\TestCnxBd\bin\Debug\mysql.data.dll
+C:\Users\mihadadene\source\repos\TestCnxBd\TestCnxBd\obj\Debug\TestCnxBd.csproj.CopyComplete
+C:\Users\mihadadene\source\repos\TestCnxBd\TestCnxBd\obj\Debug\TestCnxBd.exe
+C:\Users\mihadadene\source\repos\TestCnxBd\TestCnxBd\obj\Debug\TestCnxBd.pdb
